@@ -6,7 +6,7 @@ Created from build instructions on Microsoft Azure developer documentation as ca
 https://learn.microsoft.com/en-us/azure/developer/ansible/configure-in-docker-container#create-a-dockerfile-that-will-install-ansible
 
 ## How to Use
-Use these environment variables to run the agent.
+Use these environment variables to authenticate to Azure.
 
 ```bash
 export AZURE_TENANT="<azure_tenant_id>"
