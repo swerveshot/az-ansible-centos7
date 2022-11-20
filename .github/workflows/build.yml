@@ -5,7 +5,7 @@ on:
   pull_request:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   # Test the image builds and works correctly.
